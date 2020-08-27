@@ -1,0 +1,21 @@
+MZ JS 新增 function
+-----------------------------------------
+[rpg_managers]
+ColorManager.js
+EffectManager.js
+FontManager.js
+
+[rpg_scenes]
+Scene_Message.js
+
+[rpg_sprites]
+Sprite_AnimationMV.js
+Sprite_Battleback.js
+Sprite_Gauge.js
+Sprite_Name.js
+
+[rpg_windows]
+Window_NameBox.js
+Window_StatusBase.js
+Window_StatusEquip.js
+Window_StatusParams.js
